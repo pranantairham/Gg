@@ -47,7 +47,7 @@ let songs = [
         album: "Beauty in Death",
         albumArtUrl: "https://tse3.mm.bing.net/th?id=OIP.VwivM--7Xx_SmgsqXBLi8AAAAA&pid=Api&P=0&h=220",
         audioSrc: "consume.mp3",
-        videoBgSrc: "videos/consume.mp4", // Path video background khusus lagu ini
+        videoBgSrc: "consume.mp4", // Path video background khusus lagu ini
         // Lirik dengan timestamp dalam detik
         lyrics: [
             { time: 0.8, text: "She said, Careful, or you'll lose it" },
@@ -73,8 +73,8 @@ let songs = [
         artist: "Ed Sheeran",
         album: "÷ (Divide)",
         albumArtUrl: "https://tse4.mm.bing.net/th?id=OIP.TjS4z1jJTsl6K3-ADIXFywHaEK&pid=Api&P=0&h=220",
-        audioSrc: "audio/Ed Sheeran - Perfect.mp3",
-        videoBgSrc: "videos/perfect_bg.mp4", // Path video background khusus lagu ini
+        audioSrc: "Ed Sheeran - Perfect.mp3",
+        videoBgSrc: "perfect_bg.mp4", // Path video background khusus lagu ini
         // Lirik dengan timestamp dalam detik
         lyrics: [
             { time: 2.9 , text: "I found a love for me" },
@@ -99,8 +99,8 @@ let songs = [
         artist: "Katy Perry",
         album: "Prism",
         albumArtUrl: "https://i.ytimg.com/vi/4NGVxU0qhZ8/maxresdefault.jpg",
-        audioSrc: "audio/Katy Perry - Unconditionally.mp3",
-        videoBgSrc: "videos/unconditionally_bg.mp4", // Path video background khusus lagu ini
+        audioSrc: "Katy Perry - Unconditionally.mp3",
+        videoBgSrc: "unconditionally_bg.mp4", // Path video background khusus lagu ini
         // Lirik dengan timestamp dalam detik
         lyrics: [
             { time: 7.1, text: "Oh no, did I get too close?" },
@@ -148,8 +148,8 @@ let songs = [
         artist: "James Arthur & Anne-Marie",
         album: "The Greatest Showman: Reimagined",
         albumArtUrl: "https://i.ytimg.com/vi/BqGCJUXEqxQ/maxresdefault.jpg",
-        audioSrc: "audio/Rewrite The Stars - James Arthur feat. Anne Marie.mp3",
-        videoBgSrc: "videos/rewrite_the_stars_bg.mp4",
+        audioSrc: "Rewrite The Stars - James Arthur feat. Anne Marie.mp3",
+        videoBgSrc: "rewrite_the_stars_bg.mp4",
         lyrics: [
             { time: 1000, text: "You know I want you" },
             { time: 1000, text: "It's not a secret I try to hide" },
@@ -214,8 +214,8 @@ let songs = [
         artist: "taylor swift",
         album: "OK Computer",
         albumArtUrl: "https://www.songmeaningsandfacts.com/wp-content/uploads/2022/11/Message-in-a-Bottle-by-Taylor-Swift.jpg",
-        audioSrc: "audio/bocil.mp3",
-        videoBgSrc: "videos/bocil.mp4",
+        audioSrc: "bocil.mp3",
+        videoBgSrc: "bocil.mp4",
         lyrics: [
             { time: 0  ,  text: "Cause you could be the one that I love" },
             { time: 4,  text: "I could be the one that you dream of " },
@@ -233,8 +233,8 @@ let songs = [
         artist: "Aziz Hedra", 
         album: "Unreleased",
         albumArtUrl: "https://tse3.mm.bing.net/th?id=OIP.5fDFhJU8ZYGRlPD4ffPlgAHaHa&pid=Api&P=0&h=220", 
-        audioSrc: "audio/Somebodys Pleasure.mp3",
-        videoBgSrc: "videos/somebodys_pleasure_bg.mp4",
+        audioSrc: "Somebodys Pleasure.mp3",
+        videoBgSrc: "somebodys_pleasure_bg.mp4",
         lyrics: [
             { time: 1000, text: "I've been too busy ignoring and hiding" },
             { time: 1000, text: "About what my heart actually say" },
@@ -291,8 +291,8 @@ let songs = [
         artist: "Arctic Monkeys",
         album: "AM",
         albumArtUrl: "https://i.ytimg.com/vi/fJLQCf4mFP0/hqdefault.jpg",
-        audioSrc: "audio/I Wanna Be Yours.mp3",
-        videoBgSrc: "videos/i_wanna_be_yours_bg.mp4",
+        audioSrc: "I Wanna Be Yours.mp3",
+        videoBgSrc: "i_wanna_be_yours_bg.mp4",
         lyrics: [
             { time: 1000, text: "I wanna be your vacuum cleaner" },
             { time: 1000, text: "Breathing in your dust" },
@@ -339,8 +339,8 @@ let songs = [
         artist: "Radiohead",
         album: "OK Computer",
         albumArtUrl: "https://images.genius.com/ea1fda114f5091bce67f87cf8437b647.1000x1000x1.png",
-        audioSrc: "audio/letdown.mp3",
-        videoBgSrc: "videos/letdown.mp4",
+        audioSrc: "letdown.mp3",
+        videoBgSrc: "letdown.mp4",
         lyrics: [
             { time: 0.2  ,  text: "Floor collapsing Floating" },
             { time: 5,  text: "bouncing back and " },
