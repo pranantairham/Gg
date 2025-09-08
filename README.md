@@ -1,2 +1,0 @@
-# Gg
-Coding by arildani
